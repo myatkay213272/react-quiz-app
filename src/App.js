@@ -1,5 +1,5 @@
 import React from 'react'
-import DateCounter from './components/DateCounter'
+// import DateCounter from './components/DateCounter'
 import Header from './components/Header'
 import Main from './components/Main'
 
